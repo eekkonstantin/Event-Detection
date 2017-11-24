@@ -1,3 +1,9 @@
+/* AUTHORSHIP STATEMENT
+Elizabeth Konstantin Kwek Jin Li (2287563K)
+Web Science Level 4 Coursework 2017
+This is my own work as defined in the Academic Ethics agreement I have signed.
+*/
+
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
